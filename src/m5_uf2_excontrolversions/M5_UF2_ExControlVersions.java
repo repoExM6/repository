@@ -16,6 +16,7 @@ public class M5_UF2_ExControlVersions {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Canvis versio 2");
     }
     
 }
